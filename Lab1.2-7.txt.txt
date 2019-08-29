@@ -1,0 +1,11 @@
+TCP
+*** Iperf: testing TCP bandwidth between h1 and h2                                             *** Results: ['85.1 Mbits/sec', '99.9 Mbits/sec'] 
+
+UDP
+*** Iperf: testing UDP bandwidth between h1 and h2                                             *** Results: ['10M', '10.0 Mbits/sec', '10.0 Mbits/sec'] 
+
+Ping
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms                               rtt min/avg/max/mdev = 20.164/20.879/22.302/0.681 ms 
+
+PingAll
+*** Ping: testing ping reachability                                                            h1 -> h2                                                                                        h2 -> h1                                                                                      *** Results: 0% dropped (2/2 received) 
